@@ -22,7 +22,7 @@ const PlaceOrder = () => {
     phone: "",
     pointrelaix: "",
   });
-
+// update
   const onChangeHandler = (event)=>{
     const name= event.target.name
     const value = event.target.value
